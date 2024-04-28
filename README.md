@@ -1,4 +1,6 @@
 # my_leetcode
+Hello, here is collection of my python solution for many simple problem
+
 ### Here is my LeetCode solutions
 1.  Two Sum [x]
 17. Letter Combinations of a Phone Number [x]
